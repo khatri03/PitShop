@@ -30,6 +30,7 @@ namespace PitShop.Web
 
             // add custom services
             services.AddHttpClient<ICustomerManagementAPI, CustomerManagementAPI>();
+            services.AddHttpClient<IVehicleManagementAPI, VehicleManagementAPI>();
 
             services.AddControllersWithViews();
             services.AddHealthChecks(checks =>
