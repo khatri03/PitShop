@@ -5,4 +5,3 @@ D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\Infrastructure.Mess
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\Infrastructure.Messaging\obj\Debug\netstandard2.1\Infrastructure.Messaging.AssemblyInfo.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\Infrastructure.Messaging\obj\Debug\netstandard2.1\Infrastructure.Messaging.dll
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\Infrastructure.Messaging\obj\Debug\netstandard2.1\Infrastructure.Messaging.pdb
-D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\Infrastructure.Messaging\obj\Debug\netstandard2.1\Infrastructure.Messaging.csprojAssemblyReference.cache

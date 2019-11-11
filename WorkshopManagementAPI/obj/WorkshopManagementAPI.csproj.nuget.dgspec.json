@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\WorkshopManagementAPI\\WorkshopManagementAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj",
+        "projectName": "Infrastructure.Messaging",
+        "projectPath": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj",
+        "packagesPath": "C:\\Users\\Sohail A\\.nuget\\packages\\",
+        "outputPath": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sohail A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {},
+          "https://www.myget.org/F/pitstop/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.1.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\WorkshopManagementAPI\\WorkshopManagementAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\WorkshopManagementAPI\\WorkshopManagementAPI.csproj",
+        "projectName": "PitShop.WorkshopManagementAPI",
+        "projectPath": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\WorkshopManagementAPI\\WorkshopManagementAPI.csproj",
+        "packagesPath": "C:\\Users\\Sohail A\\.nuget\\packages\\",
+        "outputPath": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\WorkshopManagementAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sohail A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {},
+          "https://www.myget.org/F/pitstop/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj": {
+                "projectPath": "D:\\Sohail\\TempProjects\\Microservices\\PitShopTutorial\\PitShop\\Infrastructure.Messaging\\Infrastructure.Messaging.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.4, )"
+            },
+            "Microsoft.AspNetCore.HealthChecks": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

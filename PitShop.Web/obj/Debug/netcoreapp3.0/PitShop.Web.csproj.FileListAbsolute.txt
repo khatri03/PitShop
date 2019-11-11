@@ -159,6 +159,10 @@ D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Deb
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Details.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Index.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\New.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Offline.cshtml.g.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\PitShop.Web.RazorTargetAssemblyInfo.cache
@@ -167,7 +171,8 @@ D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Deb
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\PitShop.Web.csproj.CopyComplete
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\PitShop.Web.dll
 D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\PitShop.Web.pdb
-D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Index.cshtml.g.cs
-D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Details.cshtml.g.cs
-D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\New.cshtml.g.cs
-D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\VehicleManagement\Offline.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\WorkshopManagement\Details.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\WorkshopManagement\Finish.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\WorkshopManagement\Index.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\WorkshopManagement\New.cshtml.g.cs
+D:\Sohail\TempProjects\Microservices\PitShopTutorial\PitShop\PitShop.Web\obj\Debug\netcoreapp3.0\Razor\Views\WorkshopManagement\Offline.cshtml.g.cs
